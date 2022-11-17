@@ -20,7 +20,7 @@ CREATE TABLE services(
         );
 
 INSERT INTO services(
-    service_name) 
+    name) 
     VALUES ('cut'),
             ('color'),
             ('perm'),
