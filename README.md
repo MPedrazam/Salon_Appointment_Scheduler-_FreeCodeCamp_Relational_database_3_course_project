@@ -1,6 +1,8 @@
 # Build a Salon Appointment Scheduler: FreeCodeCamp Relational Database course_project
 
-This is the third  requested FreeCodeCamp Relational Database course_project, a link to the project requirements can be found here
+This is the third requered FreeCodeCamp Relational Database Certificate project.
+The project aim to create an interactive Bash program that uses PostgreSQL to track the customers and appointments for a salon.
+
 https://www.freecodecamp.org/learn/relational-database/build-a-salon-appointment-scheduler-project/build-a-salon-appointment-scheduler
 
 The task to accomplish in this project are: 
