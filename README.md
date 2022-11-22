@@ -2,9 +2,7 @@
 
 This is the third requered FreeCodeCamp Relational Database Certificate project.
 
-The project aim to create an interactive Bash script that by using PostgreSQL to track and registered the customers and appointments for a salon.
-
-https://www.freecodecamp.org/learn/relational-database/build-a-salon-appointment-scheduler-project/build-a-salon-appointment-scheduler
+The project aim to create an interactive Bash script that by using PostgreSQL to track and registered the customers and appointments for a salon. Project information can be found [HERE](https://www.freecodecamp.org/learn/relational-database/build-a-salon-appointment-scheduler-project/build-a-salon-appointment-scheduler).
 
 The task to accomplish in this project are: 
 
